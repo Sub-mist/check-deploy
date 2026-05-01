@@ -1,10 +1,10 @@
 # CheckDeploy
 
 ![CheckDeploy Screenshot](./public/screenshot/Screenshot%20CheckDeploy.png)
-*Light Mode Overview*
+_Light Mode View_
 
 ![CheckDeploy Dark Mode](./public/screenshot/dark%20screenshot.png)
-*Dark Mode Detailed View*
+_Dark Mode View_
 
 Hey there! 👋
 
