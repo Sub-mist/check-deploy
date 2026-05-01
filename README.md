@@ -1,5 +1,11 @@
 # CheckDeploy
 
+![CheckDeploy Screenshot](./public/screenshot/Screenshot%20CheckDeploy.png)
+*Light Mode Overview*
+
+![CheckDeploy Dark Mode](./public/screenshot/dark%20screenshot.png)
+*Dark Mode Detailed View*
+
 Hey there! 👋
 
 Just a handy little tool I put together to help me (and maybe you!) figure out what's missing before hitting that "deploy" button. Think of it as a quick pre-flight check so you don't forget the boring stuff like sitemaps, robots.txt, or env examples.
